@@ -1,0 +1,1 @@
+{"rustc":16933089952354233041,"features":"","target":0,"profile":0,"path":0,"deps":[[10740222531356587821,"build_script_build",false,2882717924252551909]],"local":[{"RerunIfChanged":{"output":"release/build/readme-rustdocifier-a0fc7f5ccf34bce3/output","paths":["README.md"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

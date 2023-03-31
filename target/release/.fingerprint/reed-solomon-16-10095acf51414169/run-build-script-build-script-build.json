@@ -1,0 +1,1 @@
+{"rustc":16933089952354233041,"features":"","target":0,"profile":0,"path":0,"deps":[[18362242645793950941,"build_script_build",false,12481274620580354095]],"local":[{"RerunIfChanged":{"output":"release/build/reed-solomon-16-10095acf51414169/output","paths":["README.md"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

@@ -6,6 +6,10 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+reed-solomon-16 = "0.1.0"
+rand = "0.8.5"
+solana-reed-solomon-erasure = {version="3.1.1"} 
+
 [dev-dependencies]
 criterion = "0.4.0"
 
